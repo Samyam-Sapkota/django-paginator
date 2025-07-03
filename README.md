@@ -10,11 +10,13 @@
 
 
 
-<h1>Then in the template add following line of code from line number 18 to 79</h1>
+<h1>Then in the template add following line of code from line number </h1>
 
 
 
-<!-->
+<!--
+
+
 {% if page_object.paginator.num_pages > 1 %}
 <div class="flex justify-center mt-8">
   <nav class="flex items-center space-x-1 bg-white rounded-lg shadow-sm border border-gray-200 p-1">
