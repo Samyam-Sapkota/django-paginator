@@ -14,7 +14,7 @@
 
 
 
-<!--
+#
 
 
 {% if page_object.paginator.num_pages > 1 %}
