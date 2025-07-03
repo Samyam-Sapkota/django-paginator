@@ -42,7 +42,6 @@ def job_details(request, job_tracking_id=None):
 
 
 
-
 def home(request):
     # Fetch all job adverts from the database
     jobs = JobAdvert.objects.filter(is_active=True).order_by('-deadline')
