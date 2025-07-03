@@ -14,7 +14,7 @@
 
 
 
-
+<!-->
 {% if page_object.paginator.num_pages > 1 %}
 <div class="flex justify-center mt-8">
   <nav class="flex items-center space-x-1 bg-white rounded-lg shadow-sm border border-gray-200 p-1">
@@ -77,3 +77,6 @@
   </nav>
 </div>
 {% endif %}
+-->
+
+<h1>Thank yoou </h1>
